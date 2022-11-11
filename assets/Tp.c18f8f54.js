@@ -1,4 +1,4 @@
-import{_ as t,o as e,f as o,b as n}from"./index.fa8ed3c3.js";const s={},l={align:"center"},c=n("br",null,null,-1),r=n("br",null,null,-1),_=n("br",null,null,-1),a=n("a",{href:`tpdapp://open?params={\r
+import{_ as t,o as e,f as o,b as n}from"./index.3c40d222.js";const s={},l={align:"center"},c=n("br",null,null,-1),r=n("br",null,null,-1),_=n("br",null,null,-1),a=n("a",{href:`tpdapp://open?params={\r
             "url": "https://www.scanadmin.com/#/test",\r
             "chain": "tron",\r
             "source": "xxx" \r
